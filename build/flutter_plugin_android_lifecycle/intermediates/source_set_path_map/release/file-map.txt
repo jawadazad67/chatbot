@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-0 C:\Users\it\.gradle\caches\transforms-3\1748f72c181ff7b5ad40d278310a2fbb\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-1 C:\Users\it\.gradle\caches\transforms-3\2643c8c8aff33a4f919914e5c4d47fd2\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-2 C:\Users\it\.gradle\caches\transforms-3\7a77da85ab9580b85250487c855759a1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-3 C:\Users\it\.gradle\caches\transforms-3\daec2a3dd36b4056418008ec1e204f87\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 C:\Users\it\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.19\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 C:\Users\it\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.19\android\src\release\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 C:\Users\it\Documents\Semester VI\mad\chatbot\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 C:\Users\it\Documents\Semester VI\mad\chatbot\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 C:\Users\it\Documents\Semester VI\mad\chatbot\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 C:\Users\it\Documents\Semester VI\mad\chatbot\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 C:\Users\it\Documents\Semester VI\mad\chatbot\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 C:\Users\it\Documents\Semester VI\mad\chatbot\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release

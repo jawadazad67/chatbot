@@ -1,0 +1,4 @@
+#Wed May 22 18:07:00 PKT 2024
+base.0=C\:\\Users\\it\\Documents\\Semester VI\\mad\\chatbot\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

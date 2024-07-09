@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-0 C:\Users\it\.gradle\caches\transforms-3\1748f72c181ff7b5ad40d278310a2fbb\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-1 C:\Users\it\.gradle\caches\transforms-3\2070b154f1589f52dfa5777ad1c0b3c8\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-2 C:\Users\it\.gradle\caches\transforms-3\2643c8c8aff33a4f919914e5c4d47fd2\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-3 C:\Users\it\.gradle\caches\transforms-3\3b1fb84e0412d4c9657266cca9f98626\transformed\jetified-exoplayer-core-2.18.7\res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-4 C:\Users\it\.gradle\caches\transforms-3\45dd06a671e12c13852066fa215215cf\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-5 C:\Users\it\.gradle\caches\transforms-3\7a77da85ab9580b85250487c855759a1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-main-6 C:\Users\it\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.14\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-7 C:\Users\it\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.14\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 C:\Users\it\Documents\Semester VI\mad\chatbot\build\video_player_android\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 C:\Users\it\Documents\Semester VI\mad\chatbot\build\video_player_android\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 C:\Users\it\Documents\Semester VI\mad\chatbot\build\video_player_android\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 C:\Users\it\Documents\Semester VI\mad\chatbot\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 C:\Users\it\Documents\Semester VI\mad\chatbot\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 C:\Users\it\Documents\Semester VI\mad\chatbot\build\video_player_android\intermediates\merged_res\release

@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-0 C:\Users\it\.gradle\caches\transforms-3\1748f72c181ff7b5ad40d278310a2fbb\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-1 C:\Users\it\.gradle\caches\transforms-3\2643c8c8aff33a4f919914e5c4d47fd2\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-2 C:\Users\it\.gradle\caches\transforms-3\7a77da85ab9580b85250487c855759a1\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-3 C:\Users\it\.gradle\caches\transforms-3\daec2a3dd36b4056418008ec1e204f87\transformed\core-1.6.0\res
+com.tekartik.sqflite-main-4 C:\Users\it\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\src\main\res
+com.tekartik.sqflite-release-5 C:\Users\it\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.2\android\src\release\res
+com.tekartik.sqflite-pngs-6 C:\Users\it\Documents\Semester VI\mad\chatbot\build\sqflite\generated\res\pngs\release
+com.tekartik.sqflite-resValues-7 C:\Users\it\Documents\Semester VI\mad\chatbot\build\sqflite\generated\res\resValues\release
+com.tekartik.sqflite-rs-8 C:\Users\it\Documents\Semester VI\mad\chatbot\build\sqflite\generated\res\rs\release
+com.tekartik.sqflite-mergeReleaseResources-9 C:\Users\it\Documents\Semester VI\mad\chatbot\build\sqflite\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 C:\Users\it\Documents\Semester VI\mad\chatbot\build\sqflite\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\it\Documents\Semester VI\mad\chatbot\build\sqflite\intermediates\merged_res\release
