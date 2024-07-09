@@ -1,14 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # chatbot
-=======
-# chatbot
-=======
-# chatbot application
->>>>>>> fa4434ca5885ca5c074505ef8e6ea4b64d4a824b
-
-
-<<<<<<< HEAD
 ## Getting Started
 
 This project is a starting point for a Flutter application.
