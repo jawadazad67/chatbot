@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286135986090",
+    "project_id": "authenticator-695f1",
+    "storage_bucket": "authenticator-695f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286135986090:android:01a6efedfba8015a04edd3",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAafnV4ic_Vom1K6asYFEj8OSkC_JGs9nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
